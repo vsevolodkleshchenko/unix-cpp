@@ -1,1 +1,2 @@
-**/lab_02/build/*.txt
+!.gitignore
+**/lab_02/build
