@@ -1,0 +1,14 @@
+﻿"unixcpp_cpp2.exe" (Win32). Загружено "C:\Users\kvd\source\repos\unixcpp_cpp2\x64\Debug\unixcpp_cpp2.exe". Символы загружены.
+"unixcpp_cpp2.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"unixcpp_cpp2.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"unixcpp_cpp2.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"unixcpp_cpp2.exe" (Win32). Загружено "C:\Windows\System32\msvcp140d.dll". 
+"unixcpp_cpp2.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"unixcpp_cpp2.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+"unixcpp_cpp2.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140_1d.dll". 
+Поток 0x3694 завершился с кодом 0 (0x0).
+"unixcpp_cpp2.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". 
+"unixcpp_cpp2.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". 
+Поток 0x424 завершился с кодом 0 (0x0).
+Поток 0x4974 завершился с кодом 0 (0x0).
+Программа "[7336] unixcpp_cpp2.exe" завершилась с кодом 0 (0x0).
