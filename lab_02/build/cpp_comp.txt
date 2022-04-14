@@ -1,8 +1,0 @@
-﻿Сборка начата…
-1>------ Сборка начата: проект: unixcpp_cpp2, Конфигурация: Debug x64 ------
-1>unixcpp_cpp2.cpp
-1>C:\Users\kvd\source\repos\unixcpp_cpp2\unixcpp_cpp2\unixcpp_cpp2.cpp(9,47): warning C4552: "+": результат выражения не используется
-1>C:\Users\kvd\source\repos\unixcpp_cpp2\unixcpp_cpp2\unixcpp_cpp2.cpp(21,15): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-1>unixcpp_cpp2.vcxproj -> C:\Users\kvd\source\repos\unixcpp_cpp2\x64\Debug\unixcpp_cpp2.exe
-1>Сборка проекта "unixcpp_cpp2.vcxproj" завершена.
-========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
